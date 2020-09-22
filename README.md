@@ -16,9 +16,9 @@ Watch video from Demo-video folder for walk through of web application.
 
 To run this project:
 
-Download both the folders.
+- Download both the folders.
 
-Download trained models from the drive link. Place these models in the Flask and PneumoniaMalariaClassifier folder.
+- Download trained models from the drive link. Place these models in the Flask and PneumoniaMalariaClassifier folder.
 
 https://drive.google.com/drive/folders/1mRMTlzWiWNiZJ5r6CsnwHqfPE8QhCQkX?usp=sharing
 
