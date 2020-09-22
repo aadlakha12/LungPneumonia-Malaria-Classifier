@@ -113,11 +113,23 @@ def upload():
         matches2_3 = ncc(img2,img3)
         print(matches1_3,matches2_3)
         if matches1_3>=0.55 and disease == 'malaria':
-            return "Please upload malaria cell image"
+            resultdisease = {
+            'message' : "Please upload malaria cell image",
+            'status' : 'error'
+            }
+            return jsonify(resultdisease)
         elif matches2_3>=0.55 and disease == 'lung':
-            return "Please upload lung x-ray image"
+            resultdisease = {
+            'message' : "Please upload lung x-ray image",
+            'status' : 'error'
+            }
+            return jsonify(resultdisease)
         elif matches1_3<0.4 and matches2_3<0.4:
-            return "Please upload either lung x-ray or malaria cell image"
+            resultdisease = {
+            'message' : "Please upload either lung x-ray or malaria cell image",
+            'status' : 'error'
+            }
+            return jsonify(resultdisease)
 
         MODEL_PATH_vgg19_lung = 'model_vgg19new.h5'
         MODEL_PATH_resnet_lung  ='model_resnetnew.h5'
@@ -151,7 +163,8 @@ def upload():
         resultdisease = {
         "infection":prob_message_infection,
         "noinfection": prob_message_noinfection,
-        "message":messages
+        "message":messages,
+        "status":'ok'
         }
         return jsonify(resultdisease)
     return None
