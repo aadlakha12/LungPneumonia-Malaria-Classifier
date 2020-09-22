@@ -40,7 +40,7 @@ Malaria Parasite result:
 
 ![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Malaria.png?raw=true)
 
-Template Mataching
+###### Template Mataching
 
 - Error on choosing Malaria Dataset and uploading lung x-ray image:
 
