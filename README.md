@@ -28,15 +28,17 @@ To run a web app.
 
 - Run Python app.py from terminal in the Flask folder.
 
-Main Page:
+## Results
+
+##### Main Page:
 
 ![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Main-Landing.png?raw=true)
 
-Lung X-ray Pneumonia result:
+##### Lung X-ray Pneumonia result:
 
 ![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Pneumonia.png?raw=true)
 
-Malaria Parasite result:
+##### Malaria Parasite result:
 
 ![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Malaria.png?raw=true)
 
