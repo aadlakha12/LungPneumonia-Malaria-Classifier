@@ -29,4 +29,5 @@ To run a web app.
 - Run Python app.py from terminal in the Flask folder.
 
 Main Page
-![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/tree/master/Images/Main-Landing.png?raw=true)
+
+![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Main-Landing.png?raw=true)
