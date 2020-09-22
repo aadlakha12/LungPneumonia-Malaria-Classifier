@@ -49,7 +49,12 @@ $(document).ready(function () {
                 var result = data
                 $('.loader').hide();
                 $('#result').fadeIn(600);
-                $('#result').html('<h4>Result:</h4>' + '<b>Message: </b>' +result.message + '<br>' + '<b>Probability of Infection: </b>' +result.infection + '<br>' + '<b>Probability of  No Infection: </b>' +result.noinfection);
+                if (result.status == 'ok'){
+                    $('#result').html('<h4>Result:</h4>' + '<b>Message: </b>' +result.message + '<br>' + '<b>Probability of Infection: </b>' +result.infection + '<br>' + '<b>Probability of  No Infection: </b>' +result.noinfection);
+                }else{
+                  $('#result').html('<h4>Result:</h4>' + '<b>Message: </b>' +result.message);
+                }
+
                 console.log('Success!');
             },
         });
