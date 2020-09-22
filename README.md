@@ -12,6 +12,8 @@ Chest X-ray Pneumonia Disease : https://www.kaggle.com/paultimothymooney/chest-x
 
 Malaria Parasite Dataset: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
 
+Watch video from Demo-video folder for walk through of web application.
+
 To run this project:
 
 Download both the folders.
