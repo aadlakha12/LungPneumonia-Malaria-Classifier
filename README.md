@@ -46,7 +46,7 @@ To run a web app.
 
 - Error on choosing Malaria Dataset and uploading lung x-ray image:
 
-![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Error_lung.png?raw=true)
+![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Error.png?raw=true)
 
 - Error on choosing Lung Dataset and uploading malaria image:
 
