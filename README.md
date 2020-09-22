@@ -40,17 +40,19 @@ Malaria Parasite result:
 
 ![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Malaria.png?raw=true)
 
-Error on choosing Malaria Dataset and uploading lung x-ray image:
+Template Mataching
 
-![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Main-Landing.png?raw=true)
+- Error on choosing Malaria Dataset and uploading lung x-ray image:
 
-Error on choosing Lung Dataset and uploading malaria image:
+![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Error_lung.png?raw=true)
 
-![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Main-Landing.png?raw=true)
+- Error on choosing Lung Dataset and uploading malaria image:
 
-Error on choosing Lung/Malaria Dataset and uploading any unknown image:
+![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Error_malaria.png?raw=true)
 
-![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Main-Landing.png?raw=true)
+- Error on choosing Lung/Malaria Dataset and uploading any unknown image:
+
+![alt text](https://github.com/aadlakha12/LungPneumonia-Malaria-Classifier/blob/master/Images/Error_unknown.png?raw=true)
 
 
 
