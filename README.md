@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1mRMTlzWiWNiZJ5r6CsnwHqfPE8QhCQkX?usp=sha
 
 To run a web app.
 
-Go to Flask folder. Install necessary dependencies.
+- Go to Flask folder. Install necessary dependencies.
 
-Run Python app.py from terminal in the Flask folder.
+- Run Python app.py from terminal in the Flask folder.
 
